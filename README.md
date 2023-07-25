@@ -1,13 +1,13 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Olá! Meu nome é Fernando Bianchini.
 =================================================================================================================================================
 
-Arquiteto de Software
+Arquiteto de Software/Arquiteto de Solução
 ---------------------
 
 * 🌍  Estou em Curitiba, PR, Brasil
 * ✉️  Você pode me contactar por [bianchini.fer@gmail.com](mailto:bianchini.fer@gmail.com)
 * 🚀  Atualemtene estou trabalhando em [Paraná Banco](http://paranabanco.b.br)
-
+* 💬  [Blog Bianchini.Tech](https://bianchini.tech)
 ### Skills
 
 <p align="left">
