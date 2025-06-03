@@ -6,7 +6,7 @@ Arquiteto de Software/Arquiteto de Solução
 
 * 🌍  Estou em Curitiba, PR, Brasil
 * ✉️  Você pode me contactar por [bianchini.fer@gmail.com](mailto:bianchini.fer@gmail.com)
-* 🚀  Atualemtene estou trabalhando em [Paraná Banco](http://paranabanco.b.br)
+* 🚀  Atualemtene estou trabalhando no [Banco Bradesco](http://banco.bradesco)
 * 💬  [Blog Bianchini.Tech](https://bianchini.tech)
 ### Skills
 
